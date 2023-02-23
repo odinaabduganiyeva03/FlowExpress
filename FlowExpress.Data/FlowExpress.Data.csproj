@@ -1,0 +1,27 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>disable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Databases\foodDatabase.json" />
+    <None Remove="Databases\orderDatabase.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Include="Databases\foodDatabase.json" />
+    <Compile Include="Databases\orderDatabase.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\FlowExpress.Domain\FlowExpress.Domain.csproj" />
+  </ItemGroup>
+
+</Project>

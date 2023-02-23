@@ -1,0 +1,15 @@
+C:\C#\FlowExpress\FlowExpress.Data\obj\Debug\net6.0\FlowExpress.Data.csproj.AssemblyReference.cache
+C:\C#\FlowExpress\FlowExpress.Data\obj\Debug\net6.0\FlowExpress.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\FlowExpress\FlowExpress.Data\obj\Debug\net6.0\FlowExpress.Data.AssemblyInfoInputs.cache
+C:\C#\FlowExpress\FlowExpress.Data\obj\Debug\net6.0\FlowExpress.Data.AssemblyInfo.cs
+C:\C#\FlowExpress\FlowExpress.Data\obj\Debug\net6.0\FlowExpress.Data.csproj.CoreCompileInputs.cache
+C:\C#\FlowExpress\FlowExpress.Data\bin\Debug\net6.0\FlowExpress.Data.deps.json
+C:\C#\FlowExpress\FlowExpress.Data\bin\Debug\net6.0\FlowExpress.Data.dll
+C:\C#\FlowExpress\FlowExpress.Data\bin\Debug\net6.0\FlowExpress.Data.pdb
+C:\C#\FlowExpress\FlowExpress.Data\bin\Debug\net6.0\FlowExpress.Domain.dll
+C:\C#\FlowExpress\FlowExpress.Data\bin\Debug\net6.0\FlowExpress.Domain.pdb
+C:\C#\FlowExpress\FlowExpress.Data\obj\Debug\net6.0\FlowExpress.Data.csproj.CopyComplete
+C:\C#\FlowExpress\FlowExpress.Data\obj\Debug\net6.0\FlowExpress.Data.dll
+C:\C#\FlowExpress\FlowExpress.Data\obj\Debug\net6.0\refint\FlowExpress.Data.dll
+C:\C#\FlowExpress\FlowExpress.Data\obj\Debug\net6.0\FlowExpress.Data.pdb
+C:\C#\FlowExpress\FlowExpress.Data\obj\Debug\net6.0\ref\FlowExpress.Data.dll

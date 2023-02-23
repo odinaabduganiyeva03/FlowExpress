@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "H4NUrarFAJefUguAkyXVAMWIgVTgcvAQpE1CLjnaOdUe6MjPjBZsxohsebRY3UFhQ5DY5E8IB7L+dNBKnC9HPQ==",
+  "success": true,
+  "projectFilePath": "C:\\C#\\FlowExpress\\FlowExpress.Service\\FlowExpress.Service.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
